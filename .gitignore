@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# NVD 로컬 캐시
+kernel-cve-tool/data/
+
+# macOS
+.DS_Store
